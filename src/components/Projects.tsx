@@ -9,7 +9,7 @@ const Projects = () => {
       technologies: ["React.js", "Node.js", "Database Management", "Full Stack Development"],
       type: "web-development",
       icon: <Calendar className="text-blue-600" size={24} />,
-      link: "https://github.com/apapapapaap/-Parlor-project-Full-stack-development-",
+      link: "https://github.com/apapapapaap/Parlor-Appointment-full-stack-project",
       features: [
         "Real-time appointment booking",
         "Customer management system",
